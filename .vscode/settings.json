@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.psuedo": "pseudocode",
+        "stdlib.h": "c"
+    }
+}
